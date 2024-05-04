@@ -1,0 +1,15 @@
+matplotlib==3.7.1
+numpy==1.24.2
+pandas==1.5.3
+seaborn==0.12.2
+scikit-learn==1.2.2
+scikit-learn-extra==0.3.0
+pyclustering==0.10.1.2
+
+
+# To install the libraries using pip in Visual Studio Code (VSC), run the following command in the integrated terminal:
+# pip install -r requirements.txt
+
+# To create a Conda environment and install the libraries using Anaconda, run the following commands in the Anaconda prompt:
+# conda create --name [my enviroment] --file requirements.txt
+# activate [my enviroment]
